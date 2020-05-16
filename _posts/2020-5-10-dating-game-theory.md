@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Structure Your Perception
+title: Our Emotions and the Social Hierarchy
 ---
 
 To a large degree you can determine the manner in which the world manifests itself to you by changing your aim. And that opens up... the entire domain of philosophy. What good is philosophy? People think that all the time. "What good is philosophy?" Hey, philosophy is about value. "Well, what use is value?" Value determines your aim. "Well, who cares what your aim is?" Your aim determines the manner in which the world lays itself out to you emotionally. "Well, who cares about that?!"
