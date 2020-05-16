@@ -13,5 +13,5 @@ If things aren't laying themselves out in front of you the way that is necessary
 
 And that is a question worth asking. Well, it's a question people do ask, it's like "well, what's the purpose of life?" That's the same question. "What should I aim at?" That's the same question.
 
-
+___
 _Adaptation from "Our Emotions and the Social Hierarchy - Part Two", a [podcast](https://spoti.fi/2YQTxNS) by Jordan B. Peterson_
