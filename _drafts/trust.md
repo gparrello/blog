@@ -1,0 +1,25 @@
+---
+layout: post
+title: Trust
+---
+
+screaming and what I mean by that is that if I trust you then I don't have to take into account how complicated you are because you're horribly complicated you
+
+take you at your word and your were Vice you and you can take me at my word and my word simplify is you and then we can act like we understand each other even though we don't.
+
+But then if that trust is betrayed then all the snakes come forth very very rapidly.
+
+What happens is, if you are in a relationship with someone and you trust them, you make certain assumptions about the past, and you make certain assumptions the present, and you make certain about the future. And everything is stable and you are standing on solid ground. And the chaos that is like standing on thin ice, the chaos is hidden. The shark beneath the waves isn't there; you are safe, you are in the lifeboat.
+
+But then if the person betrays you, like if you are in an intimate relationship and the person has an affair and you find out about it then one moment you are in one place where everything is secure
+
+you predicated the of the world on the axiom of trust
+
+the next second you are in a completely different place, and not only is that place different right now... the place you were years ago is different! And the place you are gonna be in the future years hence is different! All of that certainty, that strange certainty that you inhabit can collapse into incredible complexity
+
+If someone betrays you, you say "Ok, who were you? Because you weren't who I thought you were. And I thought I knew you, but I didn't know you at all. And I never knew you, so all the things we did together, those weren't the things I thought were happening! Something else was happening. You were someone else, and that means I'm someone else because I thought I knew what was going on and clearly I don't, I'm some sort of blind sucker or the victim of a psycopath; or someone who is so naive that can barely live, I don't understand anything about human beings and I don't understand anything about myself and I have no idea where I am now! I thought I was at home but I'm not, I'm in a house and it's full of strangers. I don't know what I'm going to do tomorrow or the next week or the next year."
+
+All of that certainty, that habitable certainty, collapses right back into the potential from which it emerged. And that's a terrifying thing, that's a journey to the underworld from a mythological perspective. That is really something worth knowing.
+
+___
+_Transcription from "Biblical Series: Genesis 1 - Chaos & Order", a [podcast]() by Jordan B. Peterson_
