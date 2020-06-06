@@ -3,7 +3,7 @@ layout: post
 title: Hookup Culture
 ---
 
-In the immediate aftermath of the birth control pill there was the idea that sex could now be decontextualized, I would say. First of all that it could occur in the absence of permanent relationships, let's say; and that that would be an OK thing. And that it could also be something that could be done casually for recreation and without guilt.
+In the immediate aftermath of the birth control pill there was the idea that sex could now be decontextualized. First of all that it could occur in the absence of permanent relationships, let's say; and that that would be an OK thing. And that it could also be something that could be done casually for recreation and without guilt.
 
 I don't think any of those things are true. I don't think there's any evidence that they are true. I think they are dangerous delusions, actually.
 
@@ -18,4 +18,4 @@ So let's say you have fifteen casual sexual partners. I don't know if there's an
 It's much better for people to commit to something. It deepens their life and enriches their life. It means you've taken on the responsibility of another person as if they're as much a part of you as yourself. And that's actually good for you. It's hard, but it's good for you.
 
 ___
-_Transcription from "Walking With God: Noah and the Flood", a [podcast](https://spoti.fi/2BDLudS) by **Jordan B. Peterson**_
+_Adaptation from "Walking With God: Noah and the Flood", a [podcast](https://spoti.fi/2BDLudS) by **Jordan B. Peterson**_
