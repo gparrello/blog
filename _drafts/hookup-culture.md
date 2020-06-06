@@ -3,13 +3,7 @@ layout: post
 title: Hookup Culture
 ---
 
-I can tell you some facts. People in stable monogamous relationships report the highest levels of sexual satisfaction. So that's the first thing to know.
-
-The second thing to know is, I don't think we've had an intelligent conversation about sexual morality probably since the invention of the birth control pill, so that's about fifty years.
-And it's not that surprising because the birth control pill was such an absolutely staggering technological revolution that we'll probably never recover from it. The birth control has really permanently changed the relationship between men and women and our attitudes towards sexuality in general. It will take god only knows how long until we adapt to that.
-
-In the immediate aftermath of the birth control pill there was the idea that sex could now be decontextualized, I would say.
-First of all it could occur in the absence of permanent relationships, let's say; and that that would be an OK thing. And that it could also be something that could be done casually for recreation and without guilt.
+In the immediate aftermath of the birth control pill there was the idea that sex could now be decontextualized, I would say. First of all that it could occur in the absence of permanent relationships, let's say; and that that would be an OK thing. And that it could also be something that could be done casually for recreation and without guilt.
 
 I don't think any of those things are true. I don't think there's any evidence that they are true. I think they are dangerous delusions, actually.
 
