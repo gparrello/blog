@@ -16,3 +16,6 @@ And I think that if you engage in a string of relationships like that you inevit
 So let's say you have fifteen casual sexual partners. I don't know if there's anything deeper or more profound that you could do with someone else than engaging in sex with them. And so if you are willing to take that most profound act and transform it into that most dispensable entity, then that's what you've done to other people and to yourself. And I don't think that's a good idea.
 
 It's much better for people to commit to something. It deepens their life and enriches their life. It means you've taken on the responsibility of another person as if they're as much a part of you as yourself. And that's actually good for you. It's hard, but it's good for you.
+
+___
+_Transcription from "Walking With God: Noah and the Flood", a [podcast](https://spoti.fi/2BDLudS) by Jordan B. Peterson_
