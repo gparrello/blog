@@ -14,4 +14,7 @@ layout: default
   </div>
 
   {% include disqus.html %}
+  {% if site.telegram_site_id %}
+    {% include telegram.html %}
+  {% endif %}
 </article>
