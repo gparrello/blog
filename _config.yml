@@ -86,3 +86,6 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-minimal
+
+# telegram comments
+telegram_site_id: "h6XKyEaA"
