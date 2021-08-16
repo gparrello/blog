@@ -38,6 +38,10 @@
       {{ content }}
     </div>
 
+    {% if site.telegram_site_id %}
+      {% include telegram.html %}
+    {% endif %}
+
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
@@ -46,9 +50,6 @@
       </div>
     </div>
 
-    {% if site.telegram_site_id %}
-      {% include telegram.html %}
-    {% endif %}
     {% include analytics.html %}
   </body>
 </html>
