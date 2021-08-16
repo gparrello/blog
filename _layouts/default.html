@@ -46,6 +46,9 @@
       </div>
     </div>
 
+    {% if site.telegram_site_id %}
+      {% include telegram.html %}
+    {% endif %}
     {% include analytics.html %}
   </body>
 </html>
