@@ -14,5 +14,8 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    {% if site.telegram_site_id %}
+      {% include telegram.html %}
+    {% endif %}
   {% endfor %}
 </div>

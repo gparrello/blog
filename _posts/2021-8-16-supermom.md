@@ -17,8 +17,3 @@ The things you can see, with even a single open eye. It’s no wonder that peopl
 
 ___
 Jordan B. Peterson, "12 Rules for Life: An Antidote to Chaos"
-
-
-{% if site.telegram_site_id %}
-    {% include telegram.html %}
-{% endif %}
