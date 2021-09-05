@@ -1,9 +1,7 @@
 ---
 layout: post
-title: The End of 2020
+title: Pain is Truth
 ---
-
-Well, 2020. And end of a cycle, and end of a life. And a new beginning.
 
 Two years of pain. Pain that I brought onto myself. Because I deceived those I loved. But first and foremost, because I deceived myself. Two years of letting go of a resentment that I've been carrying probably for decades.
 
