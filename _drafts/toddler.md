@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Burn the Dead Wood
+title: Toddler
 ---
 
 Imagine a toddler repeatedly striking his mother in the face. Why would he do such a thing? It’s a stupid question. It’s unacceptably naive. The answer is obvious. To dominate his mother. To see if he can get away with it. Violence, after all, is no mystery. It’s peace that’s the mystery. Violence is the default. It’s easy. It’s peace that is difficult: learned, inculcated, earned. 

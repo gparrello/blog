@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What You Need
+title: The Prisoner's Dilemma of Dating
 ---
 
 I guess there comes a moment in the life of every person in which they decide what they want from a relationship with a partner. And for each person involved, there are two options:
