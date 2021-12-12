@@ -16,3 +16,13 @@ so why is it time the fact that determines that we assume that we want to be wit
 because there's nothing more valuable than time why? because your time is finite because you're going to die so the ultimate sacrifice that you can do for someone is to give them your time (and giving your time entails giving your attention)
 
 in so far sacrifice is what gives value to anything then the sacrifice of time to attend to someone is valuing someone.
+
+you either like someone as a whole or you don't
+
+you think that just because you warn someone that you don't want to be with them it's okay to use them
+
+you think that saying stuff is enough to shrug responsibility
+
+
+if you don't intend to date someone, you are planning for heartbreak; it may not be yours but it doesn't matter
+everything you do to others, you so to yourself
