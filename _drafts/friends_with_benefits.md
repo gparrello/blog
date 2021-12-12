@@ -1,20 +1,22 @@
 --
 layout: post
-title: Friends with Benefits
+title: Friends with Benefits Don't Exist
 --
 
 
 why don't friends with benefits work?
 
-Let's say we start seeing each other in a romantic manner. We have dates, we spend time together. We get to know each other, we are vulnerable to each other because we share intimacy, which needs not necessarily be only in the form of sex.
+Let's say we start seeing each other in a romantic manner. We have dates, we spend time together. We get to know each other by being vulnerable with each other because we share intimacy. Which needs not necessarily be only in the form of sex.
 
-What happens as a consequence is what you would call having a relationship: I assume you want to spend more time with me (because you're spending time with me already) and, likewise, you assume the same from me for the same reason. This is foundation of trust.
+What happens as a consequence is what you would call having a relationship: I assume you want to spend more time with me because you're spending time with me already and, likewise, you assume the same from me for the same reason. This is the foundation of trust.
 
 Why is it time the fact that determines that trust is created? There's nothing more valuable than time because it is limited. Your time is finite because you're going to die. So the ultimate sacrifice you can do for someone is to give them your time.
 
 and giving time is paying attention.
 
-In so far sacrifice is what gives value to anything, as sacrificing something means prioritizing something else, valuing something else, then the sacrifice of time to attend to someone is valuing someone.
+In so far sacrificing something means prioritizing something else, valuing something else, then sacrifice, choosing, is what gives value to anything. Then the sacrifice of what is most valuable in your life, time to attend to someone, is valuing someone unequivocally.
+
+What is the alternative? What you're saying if you spend time with someone that you don't value is that you don't value your own time.
 
 
 you either like someone as a whole or you don't
