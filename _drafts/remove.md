@@ -1,0 +1,1 @@
+If I ever stopped talking to you & removed you from my life, I hope you understand how hard that was for me. I have a bad habit of holding onto the good in people, no matter how bad they're for me or treat me. So, if you have been removed, it's because you pushed me past of my limits.

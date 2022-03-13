@@ -3,6 +3,11 @@ layout: post
 title: Pain is Truth
 ---
 
+> There is no coming to consciousness without pain
+>
+> -- Carl Jung
+
+
 What is good? Truth is good. Truth is the way, the only way.
 What is true? Pain is true, pain is real. You can't avoid it, no matter how much you try. So you better accept it and embrace it. Acceptance is the transformation of your beliefs to better map the world. Truth rarely doesn't hurt. Acceptance rarely doesn't hurt. Transformation rarely doesn't hurt.
 
