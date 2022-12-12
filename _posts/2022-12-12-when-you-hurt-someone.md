@@ -9,4 +9,5 @@ This is what makes you ashamed: you could have done better, you could have been 
 But you didn't. You missed the mark.
 
 And the result is pain.
-That's how your mind teaches you not to repeat the same mistake.
+That is how your mind teaches you not to repeat the same mistake.
+That is how you update your map of values to navigate the world.
