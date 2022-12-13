@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quote - On Authencity
+title: Quote — About Authencity
 ---
 
 "Did what I want happen? No.
