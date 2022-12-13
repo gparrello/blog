@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quote - On Authencity
+---
 
 "Did what I want happen? No.
 Then my aim or my methods were wrong.
