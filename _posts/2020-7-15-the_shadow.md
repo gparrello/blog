@@ -17,3 +17,7 @@ And if you think that you're the sort of person that wouldn't do that, then you 
 
 
 _Adaptation from "Biblical Series: God and the Hierarchy of Authority", a [podcast](https://spoti.fi/3fv9cbn) by Jordan B. Peterson_
+
+___
+"It is better to be a warrior in a garden
+than a gardener in a war."
