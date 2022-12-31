@@ -3,14 +3,15 @@ layout: post
 title: Who The Fuck Wants To Be Responsible
 ---
 
-It's not really like I WANT a girlfriend, who wants that?!
-I don't want the responsibility,
-I just want the good parts,
-like everyone else...
-
-But my experience has made it clear
-that avoiding the responsibility
-from any relationship
-inevitably leads to heartbreak,
-on either or both parts.
-And that's a waaay heavier load down the line.
+Let's be honest: who really wants a partner?
+Nobody wants the responsibility,
+we only want the good parts.
+But avoiding responsibility in any relationship
+inevitably leads to pain,
+and that's a way heavier load down the line.
+It's better to pick it up voluntarily.
+Also, short-term fun means
+you're so starved for intimacy
+that you'd be willing to let someone
+you don't really like to get in your bed.
+That's your standard? Really?
