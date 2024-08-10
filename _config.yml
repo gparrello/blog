@@ -11,7 +11,7 @@ description: Truth will set you free.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/gparrello/personal_webpage/master/images/avatar.jpg
 
-#
+# 
 # Flags below are optional
 #
 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-137697887-3
+google_analytics: G-YKX6H46LMY
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -85,7 +85,10 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+
+plugins:
+- jekyll-remote-theme
 
 # Telegram comments
 telegram_site_id: h6XKyEaA
