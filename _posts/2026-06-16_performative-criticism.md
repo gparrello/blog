@@ -1,4 +1,7 @@
-# Performative Criticism
+---
+layout: post
+title: Performative Criticism
+---
 
 Criticism as a means of signaling involves using public judgments not just to correct a mistake, but to broadcast your own values, expertise, or social standing. By pointing out flaws in others, individuals often implicitly signal that they possess the correct taste, intelligence, or moral alignment. [1, 2, 3, 4] 
 This phenomenon operates in a few distinct ways:
