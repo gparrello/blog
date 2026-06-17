@@ -15,7 +15,10 @@ Calling out out-group members or shared enemies is a powerful way to signal loya
 The dynamic is cyclical. Accusing someone else of "virtue signaling" is often a signaling tactic in itself. Critics of "virtue signalers" frequently use the term to dismiss the sincerity of others, signaling their own pragmatism, realism, or anti-conformity. [[12]](https://www.reddit.com/r/unpopularopinion/comments/1aow0dv/calling_something_virtue_signaling_is_an_unfair/) [[13]](https://www.reddit.com/r/ENGLISH/comments/17o0a9n/what_exactly_does_virtue_signaling_mean/) [[14]](https://www.reddit.com/r/unpopularopinion/comments/1aow0dv/calling_something_virtue_signaling_is_an_unfair/) [[15]](https://teachers.institute/communication-and-information-technology/communication-process-key-elements-interplay/) [[16]](https://bonnieingram.com.au/helpful-and-harmful-things-in-a-relationship-the-four-horsemen/) 
 Understanding criticism through this lens changes how you perceive feedback. It prompts you to ask whether a critique is intended to build something up and solve a problem, or if it is primarily an outward performance. [[1]](https://www.quora.com/Why-is-criticizing-seen-as-a-sign-of-strength-For-example-pointing-out-other-people-s-mistakes) 
 
-To differentiate between constructive feedback and performative criticism, look at the delivery setting, the specificity of the advice, and the intended audience. Constructive feedback aims to improve the recipient, while performative criticism aims to elevate the critic. [[1]](https://matterapp.com/blog/the-primary-difference-between-constructive-feedback-and-destructive-feedback-is) [[2]](https://www.personatalent.com/leadership-management/how-to-give-constructive-feedback/) 
+# How To Spot It	
+
+To differentiate between constructive feedback and performative criticism, look at the delivery setting, the specificity of the advice, and the intended audience. Constructive feedback aims to improve the recipient, while performative criticism aims to elevate the critic. [[17]](https://matterapp.com/blog/the-primary-difference-between-constructive-feedback-and-destructive-feedback-is) [[18]](https://www.personatalent.com/leadership-management/how-to-give-constructive-feedback/)
+
 ## Core Differences
 
 * Constructive Feedback
@@ -23,17 +26,17 @@ To differentiate between constructive feedback and performative criticism, look 
    * Focuses on specific behaviors or actions.
    * Offers actionable steps for improvement.
    * Uses a collaborative, supportive tone.
-   * Measures success by the recipient's growth. [[3]](https://humaans.io/hr-glossary/constructive-criticism) [[4]](https://matterapp.com/blog/examples-of-constructive-criticism-for-your-boss) [[5]](https://www.betterup.com/blog/how-to-give-and-receive-constructive-criticism-at-work) [[6]](https://www.linkedin.com/pulse/gaslighting-constructive-criticism-how-tell-doug-howard-p-e--ezsge) [[7]](https://www.paymoapp.com/blog/rethinking-feedback-constructive-criticism-in-teams/) 
+   * Measures success by the recipient's growth. [[19]](https://humaans.io/hr-glossary/constructive-criticism) [[20]](https://matterapp.com/blog/examples-of-constructive-criticism-for-your-boss) [[21]](https://www.betterup.com/blog/how-to-give-and-receive-constructive-criticism-at-work) [[22]](https://www.linkedin.com/pulse/gaslighting-constructive-criticism-how-tell-doug-howard-p-e--ezsge) [[23]](https://www.paymoapp.com/blog/rethinking-feedback-constructive-criticism-in-teams/) 
 * Performative Criticism
 * Broadcasted publicly to maximize views.
    * Focuses on personal traits or character.
    * Lacks clear, realistic solutions.
    * Uses a mocking, hostile, or superior tone.
-   * Measures success by audience engagement. [[8]](https://magiecook.com/blog/recognizing-constructive-criticism-vs-destructive-criticism-a-guide-to-giving-and-receiving-feedback-that-matters/) [[9]](https://www.forbes.com/sites/topsievandenbosch/2024/07/19/6-differences-between-constructive-and-destructive-workplace-feedback/) [[10]](https://www.facebook.com/groups/599836486770618/posts/8372505099503679/) 
+   * Measures success by audience engagement. [[24]](https://magiecook.com/blog/recognizing-constructive-criticism-vs-destructive-criticism-a-guide-to-giving-and-receiving-feedback-that-matters/) [[25]](https://www.forbes.com/sites/topsievandenbosch/2024/07/19/6-differences-between-constructive-and-destructive-workplace-feedback/) [[26]](https://www.facebook.com/groups/599836486770618/posts/8372505099503679/) 
 
 ## Key Indicators to Watch
 
 * The Venue: Private messages indicate a desire to help. Public threads or quote-tweets signal a desire for an audience.
-* The Language: Constructive language uses "we" or focuses on the work. Performative language uses hyperbole, labels, and emotional triggers. [[11]](https://medium.com/live-your-life-on-purpose/how-to-turn-negative-feedback-into-a-positive-experience-b614271023cd) 
-* The Follow-Up: True mentors stick around to help you implement changes. Performative critics move on immediately after delivering the blow. [[12]](https://www.slothzero.com/our-philosophy/constructive-feedback) 
+* The Language: Constructive language uses "we" or focuses on the work. Performative language uses hyperbole, labels, and emotional triggers. [[27]](https://medium.com/live-your-life-on-purpose/how-to-turn-negative-feedback-into-a-positive-experience-b614271023cd) 
+* The Follow-Up: True mentors stick around to help you implement changes. Performative critics move on immediately after delivering the blow. [[28]](https://www.slothzero.com/our-philosophy/constructive-feedback) 
 
